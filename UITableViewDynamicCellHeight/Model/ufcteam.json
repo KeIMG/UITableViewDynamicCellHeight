@@ -1,0 +1,32 @@
+[
+  {
+    "Team": "Athlete Relations",
+    "Members": [
+      {
+        "FullName":"{FirstName} {LastName}",
+        "Mobile":"702-609-4868",
+        "Role":"Lead",
+      },
+      {
+        "FullName":"{FirstName} {LastName}",
+        "Mobile":"702-609-4868",
+        "Role":"Coordinator",
+      }
+    ]
+  },
+  {
+    "Team": "Operations",
+    "Members": [
+      {
+        "FullName":"{FirstName} {LastName}",
+        "Mobile":"702-609-4868",
+        "Role":"Lead",
+      },
+      {
+        "FullName":"{FirstName} {LastName}",
+        "Mobile":"702-609-4868",
+        "Role":"Coordinator",
+      }
+    ]
+  }
+]
